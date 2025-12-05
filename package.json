@@ -1,7 +1,6 @@
-{"homepage": "https://wandyscaceres.github.io/<your-repo-name>/",
-
-  "name": ""homepage": "https://wandyscaceres.github.io/<your-repo-name>/",
-t",
+{
+  "homepage": "https://wandyscaceres.github.io/barclays-website/",
+  "name": "barclays-website",
   "version": "1.0.0",
   "description": "React and TypeScript example starter project",
   "keywords": [
